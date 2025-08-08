@@ -1,4 +1,5 @@
-streamlit
+flask
+gunicorn
 google-generativeai
 python-dotenv
 langchain
@@ -26,3 +27,4 @@ requests
 beautifulsoup4
 chromadb
 pydantic
+
